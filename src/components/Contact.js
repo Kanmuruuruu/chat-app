@@ -8,8 +8,8 @@ function Contact(props){
             <div>
                 <div className="name">{props.name}</div>
                 <div className="status">
-                    <div className={props.status=="true" ? "status-online" : "status-offline"}>
-                        <span className="status-text">{props.status=="true" ? "Online" : "Offline"}</span>
+                    <div className={props.status==="true" ? "status-online" : "status-offline"}>
+                        <span className="status-text">{props.status==="true" ? "Online" : "Offline"}</span>
                     </div>
                 </div>
             </div>
