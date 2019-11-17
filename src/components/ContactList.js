@@ -5,7 +5,7 @@ const contacts=[
     {
         "status": "true",
         "name": "Garrison Turcotte",
-        "avatar": "https://randomuser.me/api/portraits/men/72.jpg",
+        "avatar": "https://randomuser.me/api/portraits/men/71.jpg",
     },
     {
         "status": "false",
@@ -15,17 +15,17 @@ const contacts=[
     {
         "status": "true",
         "name": "Grace Trantow",
-        "avatar": "https://randomuser.me/api/portraits/men/72.jpg",
+        "avatar": "https://randomuser.me/api/portraits/women/71.jpg",
     },
     {
         "status": "false",
         "name": "Hilario Streich",
-        "avatar": "https://randomuser.me/api/portraits/men/72.jpg",
+        "avatar": "https://randomuser.me/api/portraits/women/72.jpg",
     },
     {
         "status": "true",
         "name": "Aurelia Gutkowski",
-        "avatar": "https://randomuser.me/api/portraits/men/72.jpg",
+        "avatar": "https://randomuser.me/api/portraits/women/74.jpg",
     }
 ];
 
