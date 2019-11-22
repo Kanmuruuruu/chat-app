@@ -3,27 +3,27 @@ import Contact from "./Contact";
 
 const contacts=[
     {
-        "status": "true",
+        "status": true,
         "name": "Garrison Turcotte",
         "avatar": "https://randomuser.me/api/portraits/men/71.jpg",
     },
     {
-        "status": "false",
+        "status": false,
         "name": "Orrin Kohler",
         "avatar": "https://randomuser.me/api/portraits/men/72.jpg",
     },
     {
-        "status": "true",
+        "status": true,
         "name": "Grace Trantow",
-        "avatar": "https://randomuser.me/api/portraits/women/71.jpg",
+        "avatar": "https://randomuser.me/api/portraits/women/69.jpg",
     },
     {
-        "status": "false",
+        "status": false,
         "name": "Hilario Streich",
         "avatar": "https://randomuser.me/api/portraits/women/72.jpg",
     },
     {
-        "status": "true",
+        "status": true,
         "name": "Aurelia Gutkowski",
         "avatar": "https://randomuser.me/api/portraits/women/74.jpg",
     }
